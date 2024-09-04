@@ -14,7 +14,8 @@ About this course
 
 ### Basic Deliverables
 1. ExcelEducator 1
-2. Presentation: Personal Budget
+2. Quiz: Getting to know you
+3. Presentation: Personal Budget
 
 
 ## Sprint 2 (12 SEP - 25 SEP)
