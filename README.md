@@ -1,10 +1,11 @@
-# ITMG100
+# ITMG 100
 
 About this course
 - On Ground (no Zoom, Program Directive)
 - Expectation to present work products
 - Individual work done in groups
 - **Schedule: M/W 5:30PM-6:50PM**
+- **Office Hours: M/W 6:50PM-7:30PM (or as needed)**
 
 ## Sprint 1 (04 SEP - 11 SEP)
 
