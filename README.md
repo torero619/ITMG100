@@ -7,6 +7,9 @@ About this course
 - **Schedule: M/W 5:30PM-6:50PM**
 - **Office Hours: M/W 6:50PM-7:30PM (or as needed)**
 
+![image](https://github.com/user-attachments/assets/da5d9805-4f2f-467b-86cb-4a1fdc067960)
+
+
 ## Sprint 1 (04 SEP - 11 SEP)
 
 ### Basic Deliverables
