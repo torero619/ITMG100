@@ -46,5 +46,5 @@ About this course
 ## Sprint 6B (21 NOV - 27 NOV)
 1. Make up Exams
 
-## Sprint 8 (28 NOV - 11 DEC)
+## Sprint 7 (28 NOV - 11 DEC)
 1. Final Presentations
