@@ -6,3 +6,44 @@ About this course
 - Individual work done in groups
 - **Schedule: M/W 5:30PM-6:50PM**
 
+## Sprint 1 (04 SEP - 11 SEP)
+
+### Basic Deliverables
+1. ExcelEducator 1
+2. Presentation: Personal Budget
+
+
+## Sprint 2 (12 SEP - 25 SEP)
+
+### Basic Deliverables
+1. ExcelEducator 2 & 3
+2. Group Quiz1
+
+## Sprint 3 (26 SEP - 09 OCT)
+
+### Basic Deliverables
+1. ExcelEducator 4,5,6,7
+2. Quiz1
+
+## Sprint 4 (10 OCT - 23 OCT)
+
+### Basic Deliverables
+1. ExcelEducator 8 & 11
+2. Quiz2
+
+## Sprint 5 (24 OCT - 06 NOV)
+
+### Basic Deliverables
+1. ExcelEducator 9,12,10
+2. Quiz3
+
+## Sprint 6 (07 NOV - 20 NOV)
+```diff
+! EXAM: MICROSOFT OFFICE SPECIALIST
+```
+
+## Sprint 6B (21 NOV - 27 NOV)
+1. Make up Exams
+
+## Sprint 8 (28 NOV - 11 DEC)
+1. Final Presentations
