@@ -33,14 +33,15 @@ About this course
 ## Sprint 4 (10 OCT - 23 OCT)
 
 ### Basic Deliverables
-1. ExcelEducator 8 & 11
+1. ExcelEducator 8, 9 10
 2. Quiz2
 
 ## Sprint 5 (24 OCT - 06 NOV)
 
 ### Basic Deliverables
-1. ExcelEducator 9,12,10
-2. Quiz3
+1. SQLBolt & SQL Zoo
+2. Tentative: ExcelEducator 11, 12
+3. Quiz3
 
 ## Sprint 6 (07 NOV - 20 NOV)
 ```diff
