@@ -8,7 +8,6 @@ About this course
 - [MyEducator Homework](https://app.myeducator.com/) 10% Deduction for each day late
 - [Gmetrix Tests](https://www.gmetrix.net/Login.aspx)
 - Pass/Fail (All/None) points
-- 
 - Attendance (excused absences count, 24hrs notice, note if emergency) 
 - **Schedule: M/W 5:30PM-6:50PM**
 - **Office Hours: M/W 6:50PM-7:30PM (or as needed)**
