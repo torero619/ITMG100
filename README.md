@@ -36,23 +36,26 @@ About this course
 
 ### Basic Deliverables
 1. Attendance
-2. ExcelEducator 4,5,6,7
-3. Quiz1
+2. MyEducator: Excel 4,5,6,7
+3. MyEducator: Concepts 4,5,6,7
+4. Quiz1
 
 ## Sprint 4 (10 OCT - 23 OCT)
 
 ### Basic Deliverables
 1. Attendance
-2. ExcelEducator 8, 9 10
-3. Quiz2
+2. MyEducator: Excel 8, 9 10
+3. MyEducator: Concepts 8,9,10,11
+4. Quiz2
 
 ## Sprint 5 (24 OCT - 06 NOV)
 
 ### Basic Deliverables
 1. Attendance
 2. SQLBolt & SQL Zoo
-3. Tentative: ExcelEducator 11, 12
-4. Quiz3
+3. Tentative MyEducator: Excel 11, 12
+4. MyEducator: Concepts 12,13,14
+5. Quiz3
 
 ## Sprint 6 (07 NOV - 20 NOV)
 ```diff
@@ -61,6 +64,7 @@ About this course
 
 ## Sprint 6B (21 NOV - 27 NOV)
 1. Make up Exams
+2. MyEducator: Concepts 15,16,17
 
 ## Sprint 7 (28 NOV - 11 DEC)
 1. Final Presentations
