@@ -57,7 +57,7 @@ About this course
 
 ## Sprint 6 (07 NOV - 20 NOV)
 ```diff
-! EXAM: MICROSOFT OFFICE SPECIALIST (100+400 points)
+! EXAM: MICROSOFT OFFICE SPECIALIST (1000 points)
 ```
 
 ## Sprint 6B (21 NOV - 27 NOV)
