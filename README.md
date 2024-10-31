@@ -51,11 +51,13 @@ About this course
 ### Basic Deliverables
 1. Attendance
 2. SQLBolt & SQL Zoo
-3. Tentative MyEducator: Excel 11, 12
+3. ~~Tentative MyEducator: Excel 11, 12~~
 4. MyEducator: Concepts 12,13,14
 5. Quiz3
 
 ## Sprint 6 (07 NOV - 20 NOV)
+- Graded Quiz 1
+- Graded Quiz 2
 ```diff
 ! EXAM: MICROSOFT OFFICE SPECIALIST (1000 points)
 ```
